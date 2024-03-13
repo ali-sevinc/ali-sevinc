@@ -37,7 +37,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ali-sevinc/ali-sevinc/output/snake.svg" alt="Snake animation" />
-
-###
